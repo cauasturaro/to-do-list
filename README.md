@@ -1,7 +1,3 @@
-Sure! Here's your updated message translated into clear and professional English:
-
----
-
 # ✅ To-Do List API
 
 This is a **RESTful API** project developed with **Spring Boot** for managing a to-do list. It serves as an educational and practical example, providing a foundation for an explanatory article on building APIs with Java and Spring Boot.
