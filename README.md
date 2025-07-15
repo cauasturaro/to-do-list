@@ -20,12 +20,12 @@ This is a **RESTful API** project developed with **Spring Boot** for managing a 
 
 ## 📦 API Features
 
-* ✅ Create a new task (`POST /tasks`)
-* 📄 List all tasks (`GET /tasks`)
-* 🔍 Get a task by ID (`GET /tasks/{id}`)
-* ✏️ Update a task (`PUT /tasks/{id}`)
-* 🗑️ Delete a task (`DELETE /tasks/{id}`)
-* ☑️ Toggle task completion status (`PATCH /tasks/{id}`)
+* ✅ Create a new task (`POST /api/tasks`)
+* 📄 List all tasks (`GET /api/tasks`)
+* 🔍 Get a task by ID (`GET /api/tasks/{id}`)
+* ✏️ Update a task (`PUT /api/tasks/{id}`)
+* 🗑️ Delete a task (`DELETE /api/tasks/{id}`)
+* ☑️ Toggle task completion status (`PATCH /api/tasks/{id}`)
 
 ---
 
