@@ -39,9 +39,6 @@ The frontend was built with **pure HTML and CSS**, and consumes the API using **
 * Removing tasks from the list
 
 ---
-Sure! Here's the **Setup** section translated and adapted into clear and professional English for your GitHub repository or LinkedIn project:
-
----
 
 ## ⚙️ Setup
 
